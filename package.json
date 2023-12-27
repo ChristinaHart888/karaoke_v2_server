@@ -1,0 +1,26 @@
+{
+	"name": "karaoke_v2_server",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"devStart": "nodemon server"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ChristinaHart888/karaoke_v2_server.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/ChristinaHart888/karaoke_v2_server/issues"
+	},
+	"homepage": "https://github.com/ChristinaHart888/karaoke_v2_server#readme",
+	"dependencies": {
+		"socket.io": "^4.7.2"
+	},
+	"devDependencies": {
+		"nodemon": "^3.0.2"
+	}
+}
